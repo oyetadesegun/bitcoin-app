@@ -1,4 +1,4 @@
-# bitcoin_app
+# bitcoin_app_flutter
 
 A new Flutter project.
 
